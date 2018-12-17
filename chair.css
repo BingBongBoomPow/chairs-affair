@@ -1,11 +1,11 @@
 .column-left {
- width:200px;
+ width:auto;
  float: left;
  margin-left:18px;
 }
 
 .column-right {
-  width:50px;
+  width:auto;
   height:45px;
   padding:10px;
   float:;
