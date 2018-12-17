@@ -1,1 +1,33 @@
+.column-left {
+ width:200px;
+ float: left;
+ margin-left:18px;
+}
 
+.column-right {
+  width:50px;
+  height:45px;
+  padding:10px;
+  float:;
+  margin-left:287px; 
+}
+
+.column {
+    float: left;
+    width: 40%;
+   padding: 15px;
+  height:250px;
+}
+
+.row {
+    
+    display: table;
+    clear: both;
+}
+
+.div {
+    column-gap: 40px; /* Chrome, Safari, Opera */
+    -moz-column-gap: 40px; /* Firefox */
+    column-gap: 40px;
+    width: 500px;
+}
